@@ -1,16 +1,16 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL
 
-<!--
-**MiguelCesarPeixe/MiguelCesarPeixe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Miguel Peixe
 
-Here are some ideas to get you started:
+-Estou estudando na ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou cursando o 1º Ano do Ensino Medio 
+
+-Sou Brasileiro 
+
+-Gosto de games,animes e de ler
+
+![](https://tenor.com/pt-BR/view/dokkan-battle-goku-black-saga-future-saga-dbz-dbs-gif-7315978298742962206)
+![image](https://github.com/user-attachments/assets/e5d95465-aeba-49b9-830d-832b60ab2ca9)
+
+
